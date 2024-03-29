@@ -9,7 +9,7 @@ namespace EmpApp.Controllers
     {
         [HttpGet]
         public IActionResult GetDetails() { 
-        return Ok( "Employee=2");
+        return Ok( "Employee=3");
         }
     }
 }
